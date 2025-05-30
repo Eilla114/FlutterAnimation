@@ -95,11 +95,10 @@ Aplikasi berita sederhana dengan backend CodeIgniter 4 dan frontend Flutter.
 - `DELETE /api/berita/{id}`: Menghapus berita
 
   ## Output
-![Image](https://github.com/user-attachments/assets/febb4e62-189d-4789-9192-f17c6accc8f2)
 ![Image](https://github.com/user-attachments/assets/30e0a69c-eb5d-4ad4-ac2d-4e8878b4468d)
-![Image](https://github.com/user-attachments/assets/d14896df-3735-4692-b897-8570b2d5c0e6)
-![Image](https://github.com/user-attachments/assets/d191f1c5-a747-472f-a040-05ffca6357fe)
 ![Image](https://github.com/user-attachments/assets/684744ee-3989-4ab7-8457-cd57b67b366d)
 
-
   ## Source Code
+![Image](https://github.com/user-attachments/assets/febb4e62-189d-4789-9192-f17c6accc8f2)
+![Image](https://github.com/user-attachments/assets/d14896df-3735-4692-b897-8570b2d5c0e6)
+![Image](https://github.com/user-attachments/assets/d191f1c5-a747-472f-a040-05ffca6357fe)
